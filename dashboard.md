@@ -2,7 +2,7 @@
 | ITU-T | IETF | IEEE |
 | --- | --- | --- |
 | [AAP Announcments](https://www.itu.int/t/aap/announcements) | [IESG](https://www.ietf.org/about/groups/iesg)| - |
-| [ITU-T SG13 (2025-2028)](https://www.itu.int/en/ITU-T/studygroups/2025-2028/13/Pages/default.aspx) | - [Telechat Agendas](https://www.ietf.org/iesg/agenda) | - |
+| [ITU-T SG13 (2025-2028)](https://www.itu.int/en/ITU-T/studygroups/2025-2028/13/Pages/default.aspx) | - [Telechat Agendas](https://datatracker.ietf.org/iesg/agenda/) | - |
 | - [Collective Letters](https://www.itu.int/md/T25-SG13-COL/en) | - | - |
 | - [Circulars](https://www.itu.int/md/meetingdoc.asp?lang=en&parent=T25-TSB-CIR&destination=SG13) | - | - |
 | - [Liaisons](https://www.itu.int/net4/itu-t/ls/Home/ls_search?from=9684,&after=2025-01-01&before=2028-12-31&to=-1,,&title=) | - | - |
