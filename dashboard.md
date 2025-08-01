@@ -1,7 +1,7 @@
 # Dashboard
 | ITU-T | IETF | IEEE | ORAN |
 | --- | --- | --- | --- |
-| [AAP Announcments](https://www.itu.int/t/aap/announcements) | [IESG](https://www.ietf.org/about/groups/iesg)| [LMSC](https://1.ieee802.org/wp-admin/) | [Home](https://oranalliance.atlassian.net/wiki/spaces/OAH/overview) |
+| [AAP Announcments](https://www.itu.int/t/aap/announcements) | [IESG](https://www.ietf.org/about/groups/iesg)| [LMSC](https://1.ieee802.org) | [Home](https://oranalliance.atlassian.net/wiki/spaces/OAH/overview) |
 | [ITU-T SG13 (2025-2028)](https://www.itu.int/en/ITU-T/studygroups/2025-2028/13/Pages/default.aspx) | - [Telechat Agendas](https://datatracker.ietf.org/iesg/agenda/) | [- Calendar](https://ieee802.org/802tele_calendar.html)| - |
 | - [Collective Letters](https://www.itu.int/md/T25-SG13-COL/en) | - [Liaisons](https://datatracker.ietf.org/liaison/) | [- Mentor](https://mentor.ieee.org/802-ec/bp/StartPage) | - |
 | - [Circulars](https://www.itu.int/md/meetingdoc.asp?lang=en&parent=T25-TSB-CIR&destination=SG13) | - [IAB Templates](https://github.com/intarchboard/liaison-templates) | [802.1](https://1.ieee802.org) | - |
