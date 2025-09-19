@@ -6,7 +6,7 @@
 | - [Collective Letters](https://www.itu.int/md/T25-SG13-COL/en) | - [Liaisons](https://datatracker.ietf.org/liaison/) | [- Mentor](https://mentor.ieee.org/802-ec/bp/StartPage) | - |
 | - [Circulars](https://www.itu.int/md/meetingdoc.asp?lang=en&parent=T25-TSB-CIR&destination=SG13) | - [IAB Templates](https://github.com/intarchboard/liaison-templates) | [802.1](https://1.ieee802.org) | - |
 | - [Liaisons](https://www.itu.int/net4/itu-t/ls/Home/ls_search?from=9684,&after=2025-01-01&before=2028-12-31&to=-1,,&title=) | - [IAB Wiki](https://wiki.ietf.org/group/iab/ITU-T_liaison_relationship) | [- Admin](https://1.ieee802.org/wp-admin) | - |
-| - [Work Program](https://www.itu.int/ITU-T/workprog/wp_search.aspx?sg=13) | - | - |
+| - [Work Program](https://www.itu.int/ITU-T/workprog/wp_search.aspx?sg=13) | [1588](https://sagroups.ieee.org/1588) | - |
 | - [AAP](https://www.itu.int/t/aap/aap-recs?sg=13) | - | - |
 | [ITU-T SG15 (2025-2028)](https://www.itu.int/en/ITU-T/studygroups/2025-2028/15/Pages/default.aspx) | - | - |
 | - [Collective Letters](https://www.itu.int/md/T25-SG15-COL/en) | - | - |
