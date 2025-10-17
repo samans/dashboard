@@ -2,7 +2,7 @@
 | ITU-T | IETF | IEEE | ORAN |
 | --- | --- | --- | --- |
 | [AAP Announcments](https://www.itu.int/t/aap/announcements) | [IESG](https://www.ietf.org/about/groups/iesg)| [LMSC](https://www.ieee802.org) | [Home](https://oranalliance.atlassian.net/wiki/spaces/OAH/overview) |
-| [ITU-T SG13 (2025-2028)](https://www.itu.int/en/ITU-T/studygroups/2025-2028/13/Pages/default.aspx) | - [Telechat Agendas](https://datatracker.ietf.org/iesg/agenda/) | [- Conf calls](https://www.ieee802.org/minutes/Conference-calls/Conference-calls.shtml)| - |
+| [ITU-T SG13 (2025-2028)](https://www.itu.int/en/ITU-T/studygroups/2025-2028/13/Pages/default.aspx) | - [Telechat Agendas](https://datatracker.ietf.org/iesg/agenda/) | [- Conf calls](https://www.ieee802.org/minutes/Conference-calls/Conference-calls.shtml)| [E-Share](https://ericsson.sharepoint.com/:f:/r/sites/Management-Automation-Open-RAN-Standardization/Shared%20Documents/NASA-CP/SFTs/OSS%20Architecture/Inputs%20from%20other%20companies/Transport?csf=1&web=1&e=KbPFhY) |
 | - [Collective Letters](https://www.itu.int/md/T25-SG13-COL/en) | - [Liaisons](https://datatracker.ietf.org/liaison/) | [- Mentor](https://mentor.ieee.org/802-ec/bp/StartPage) | - |
 | - [Circulars](https://www.itu.int/md/meetingdoc.asp?lang=en&parent=T25-TSB-CIR&destination=SG13) | - [IAB Templates](https://github.com/intarchboard/liaison-templates) | [802.1](https://1.ieee802.org) | - |
 | - [Liaisons](https://www.itu.int/net4/itu-t/ls/Home/ls_search?from=9684,&after=2025-01-01&before=2028-12-31&to=-1,,&title=) | - [IAB Wiki](https://wiki.ietf.org/group/iab/ITU-T_liaison_relationship) | [- Admin](https://1.ieee802.org/wp-admin) | - |
