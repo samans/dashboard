@@ -2,6 +2,8 @@
 | Ericsson |
 | --- |
 | [Transport Standards](https://ericsson.sharepoint.com/sites/JawadsSite) |
+| [Gen AI](https://dxhub.cloud-ran.rnd.gic.ericsson.se/gen-ai) |
+| [My Tools](https://internal.ericsson.com/tools-listing?mytools=profile) |
 
 | ITU-T | IETF | IEEE | ORAN |
 | --- | --- | --- | --- |
