@@ -37,5 +37,5 @@
 | \- [Work Program](https://www.itu.int/ITU-T/workprog/wp_search.aspx?sg=tsag) | \-  | \-  | \-  |
 | \- [AAP](https://www.itu.int/t/aap/aap-recs?sg=tsag) | \-  | \-  | \-  |
 | \- [Rapporteur Group Meetings](https://www.itu.int/net/ITU-T/lists/rgm.aspx?Group=0&Q=-1&From=2025-04-01&To=2028-12-29) | \-  | \-  | \-  |
-
+| \- [ISCG](https://www.itu.int/en/general-secretariat/Pages/ISCG/default.aspx) | \- | \- | \- |
 &nbsp;
