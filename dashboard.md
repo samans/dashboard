@@ -5,7 +5,7 @@
 | [Transport Standards](https://ericsson.sharepoint.com/sites/JawadsSite) | [IETF 124 Agenda](https://datatracker.ietf.org/meeting/124/agenda) | [YangModels/yang](https://github.com/YangModels/yang) |
 | [Gen AI](https://dxhub.cloud-ran.rnd.gic.ericsson.se/gen-ai) | [IEEE 802 Plenary](https://web.cvent.com/event/680e27e9-641a-4102-8b79-98a5584c4780/websitePage:645d57e4-75eb-4769-b2c0-f201a0bfc6ce) | [Fork:YangModels/yang](https://github.com/samans/yang) |
 | [My Tools](https://internal.ericsson.com/tools-listing?mytools=profile) | [IEEE 2025-11 LMSC](https://www.ieee802.org/minutes/2025_11/index.html) | [samans](https://github.com/samans?tab=repositories) |
-| --- | --- | [IISOMI](https://github.com/Open-Network-Models-and-Interfaces-ONMI/onmi-iisomi-home/wiki) |
+| [Cloud PC Order](https://ericsson.sharepoint.com/sites/DigitalWorkspace/SitePages/WindowsCloudPC.aspx#how-to-order) | --- | [IISOMI](https://github.com/Open-Network-Models-and-Interfaces-ONMI/onmi-iisomi-home/wiki) |
 | --- | --- | [IEEE Gitlab](https://opensource.ieee.org/dashboard/projects) |
 
 | ITU-T | IETF | IEEE | ORAN |
