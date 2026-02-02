@@ -2,7 +2,7 @@
 
 | Ericsson | Meetings | Github/Gitlab |
 | --- | --- | --- |
-| [Transport Standards](https://ericsson.sharepoint.com/sites/JawadsSite) | [O-RAN Rome](https://oranalliance.atlassian.net/wiki/spaces/OAH/pages/4075552769/F2F+Meetings+February+2-6+2026+Rome) | [YangModels/yang](https://github.com/YangModels/yang) |
+| [Transport Standards](https://ericsson.sharepoint.com/sites/JawadsSite) | [O-RAN Rome](https://oranalliance.atlassian.net/wiki/spaces/OAH/pages/4539056129/Agenda+of+the+F2F+Meetings+February+2-6+2026+Rome) | [YangModels/yang](https://github.com/YangModels/yang) |
 | [Gen AI](https://dxhub.cloud-ran.rnd.gic.ericsson.se/gen-ai) | \- [WG1 ATG](https://oranalliance.atlassian.net/wiki/spaces/UCOA/pages/4628774913/Rome+WG1+ATG+F2F+Agenda) | [Fork:YangModels/yang](https://github.com/samans/yang) |
 | [My Tools](https://internal.ericsson.com/tools-listing?mytools=profile) | \- [WG1 UCTG](https://oranalliance.atlassian.net/wiki/spaces/UCOA/pages/4709941250/Rome+-+UCTG+F2F+Agenda) | [samans](https://github.com/samans?tab=repositories) |
 | [Cloud PC Order](https://ericsson.sharepoint.com/sites/DigitalWorkspace/SitePages/WindowsCloudPC.aspx#how-to-order) | \- [WG4](https://oranalliance.atlassian.net/wiki/spaces/FHWG/pages/4653482270/WG4+February+2026+F2F+meeting+Rome+Italy) | [IISOMI](https://github.com/Open-Network-Models-and-Interfaces-ONMI/onmi-iisomi-home/wiki) |
