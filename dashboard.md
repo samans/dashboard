@@ -1,12 +1,12 @@
 # Dashboard
 
 | Ericsson | Meetings | Github/Gitlab |
-| --- | --- | --- |
-| [Transport Standards](https://ericsson.sharepoint.com/sites/JawadsSite) | [O-RAN Rome](https://oranalliance.atlassian.net/wiki/spaces/OAH/pages/4539056129/Agenda+of+the+F2F+Meetings+February+2-6+2026+Rome) | [YangModels/yang](https://github.com/YangModels/yang) |
-| [Gen AI](https://dxhub.cloud-ran.rnd.gic.ericsson.se/gen-ai) | \- [WG1 ATG](https://oranalliance.atlassian.net/wiki/spaces/UCOA/pages/4628774913/Rome+WG1+ATG+F2F+Agenda) | [Fork:YangModels/yang](https://github.com/samans/yang) |
-| [My Tools](https://internal.ericsson.com/tools-listing?mytools=profile) | \- [WG1 UCTG](https://oranalliance.atlassian.net/wiki/spaces/UCOA/pages/4709941250/Rome+-+UCTG+F2F+Agenda) | [samans](https://github.com/samans?tab=repositories) |
-| [Cloud PC Order](https://ericsson.sharepoint.com/sites/DigitalWorkspace/SitePages/WindowsCloudPC.aspx#how-to-order) | \- [WG4](https://oranalliance.atlassian.net/wiki/spaces/FHWG/pages/4653482270/WG4+February+2026+F2F+meeting+Rome+Italy) | [IISOMI](https://github.com/Open-Network-Models-and-Interfaces-ONMI/onmi-iisomi-home/wiki) |
-| --- | \- [WG6](https://oranalliance.atlassian.net/wiki/spaces/COWG/pages/4681826305/WG6+February+2026+F2F+Meeting+-+Agenda+and+Minutes) | [IEEE Gitlab](https://opensource.ieee.org/dashboard/projects) |
+|---|---|---|
+| [Transport Standards](https://ericsson.sharepoint.com/sites/JawadsSite) | [IEEE Vancouver](https://schedule.802world.com/schedule/schedule/show) | [YangModels/yang](https://github.com/YangModels/yang) |
+| [Gen AI](https://dxhub.cloud-ran.rnd.gic.ericsson.se/gen-ai) | \- [802.1](https://1.ieee802.org/march-2026-plenary-session-in-vancouver-bc-canada/) | [Fork:YangModels/yang](https://github.com/samans/yang) |
+| [My Tools](https://internal.ericsson.com/tools-listing?mytools=profile) | [IETF 125](https://datatracker.ietf.org/meeting/125/agenda) | [samans](https://github.com/samans?tab=repositories) |
+| [Cloud PC Order](https://ericsson.sharepoint.com/sites/DigitalWorkspace/SitePages/WindowsCloudPC.aspx#how-to-order) | [O-RAN Rome](https://oranalliance.atlassian.net/wiki/spaces/OAH/pages/4539056129/Agenda+of+the+F2F+Meetings+February+2-6+2026+Rome) | [IISOMI](https://github.com/Open-Network-Models-and-Interfaces-ONMI/onmi-iisomi-home/wiki) |
+| --- | \- [WG1 ATG](https://oranalliance.atlassian.net/wiki/spaces/UCOA/pages/4628774913/Rome+WG1+ATG+F2F+Agenda) | [IEEE Gitlab](https://opensource.ieee.org/dashboard/projects) |
 | --- | \- [WG9](https://oranalliance.atlassian.net/wiki/spaces/OXTWG/pages/4683104268/February+2026+F2F+Rome+Agenda+Schedule+and+Links) | --- |
 
 | ITU-T | IETF | IEEE | ORAN |
