@@ -3,8 +3,8 @@
 | Ericsson | Meetings | Github/Gitlab |
 |---|---|---|
 | [Transport Standards](https://ericsson.sharepoint.com/sites/JawadsSite) | [IEEE Vancouver](https://schedule.802world.com/schedule/schedule/show) | [YangModels/yang](https://github.com/YangModels/yang) |
-| [Gen AI](https://dxhub.cloud-ran.rnd.gic.ericsson.se/gen-ai) | \- [802.1](https://1.ieee802.org/march-2026-plenary-session-in-vancouver-bc-canada/) | [Fork:YangModels/yang](https://github.com/samans/yang) |
-| [My Tools](https://internal.ericsson.com/tools-listing?mytools=profile) | [IETF 125](https://datatracker.ietf.org/meeting/125/agenda) | [samans](https://github.com/samans?tab=repositories) |
+| [Gen AI](https://dxhub.cloud-ran.rnd.gic.ericsson.se/gen-ai) | \- [802.1](https://1.ieee802.org/july-2026-plenary-session-in-montreal-qc-canada/) | [Fork:YangModels/yang](https://github.com/samans/yang) |
+| [My Tools](https://internal.ericsson.com/tools-listing?mytools=profile) | [IETF 126](https://datatracker.ietf.org/meeting/126/agenda) | [samans](https://github.com/samans?tab=repositories) |
 | [Cloud PC Order](https://ericsson.sharepoint.com/sites/DigitalWorkspace/SitePages/WindowsCloudPC.aspx#how-to-order) | [O-RAN Rome](https://oranalliance.atlassian.net/wiki/spaces/OAH/pages/4539056129/Agenda+of+the+F2F+Meetings+February+2-6+2026+Rome) | [IISOMI](https://github.com/Open-Network-Models-and-Interfaces-ONMI/onmi-iisomi-home/wiki) |
 | [Security](https://internal.ericsson.com/book-pages/89399/travel-security?unit=31550754) | \- [WG1 ATG](https://oranalliance.atlassian.net/wiki/spaces/UCOA/pages/4628774913/Rome+WG1+ATG+F2F+Agenda) | [IEEE Gitlab](https://opensource.ieee.org/dashboard/projects) |
 | --- | \- [WG9](https://oranalliance.atlassian.net/wiki/spaces/OXTWG/pages/4683104268/February+2026+F2F+Rome+Agenda+Schedule+and+Links) | [IETF Liaison](https://github.com/intarchboard/liaison-templates/tree/main) |
